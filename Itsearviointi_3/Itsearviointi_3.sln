@@ -1,0 +1,53 @@
+<<<<<<< HEAD
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itsearviointi_3", "Itsearviointi_3\Itsearviointi_3.csproj", "{A7BBE3C3-A86C-497C-8657-03F553A65809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7BBE3C3-A86C-497C-8657-03F553A65809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7BBE3C3-A86C-497C-8657-03F553A65809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7BBE3C3-A86C-497C-8657-03F553A65809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7BBE3C3-A86C-497C-8657-03F553A65809}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {839EF908-9BAD-4FE2-9179-35F04B184C4D}
+	EndGlobalSection
+EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itsearviointi_3", "Itsearviointi_3\Itsearviointi_3.csproj", "{A7BBE3C3-A86C-497C-8657-03F553A65809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7BBE3C3-A86C-497C-8657-03F553A65809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7BBE3C3-A86C-497C-8657-03F553A65809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7BBE3C3-A86C-497C-8657-03F553A65809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7BBE3C3-A86C-497C-8657-03F553A65809}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {839EF908-9BAD-4FE2-9179-35F04B184C4D}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 93347cb67d5e1ca63a8b175471708894e5894679
